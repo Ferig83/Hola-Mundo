@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hola-Mundo</string>
+    <string name="mensaje">Esta app se vende por \n 50 USD y te la compra uno de\n Dubai</string>
 </resources>
