@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Hola-Mundo</string>
-    <string name="mensaje">Esta app se vende por \n 50 USD y te la compra uno de\n Dubai</string>
+    <string name="caption_gatitos">Gatitos Aventureros</string>
+    <string name="mensaje">GATOS\nDE\nBATALLA</string>
+    <string name="mensaje2">Dale pulgar arriba si te gustó esta app</string>
+    <string name="hola">PLAY</string>
 </resources>
